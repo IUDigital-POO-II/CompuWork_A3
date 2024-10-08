@@ -1,4 +1,4 @@
-package Controlador;
+package com.IU_DIGITAL.Controlador;
 
 public class ControladorDepartamentosTest {
 }
