@@ -68,7 +68,7 @@ public class DepartamentoTest {
     // Prueba el método toString del departamento
     @Test
     void testToString() {
-        String expected = "ID:01Nombre:Desarrollo"; // Asegúrate de que el formato sea correcto
+        String expected = "ID:01 Nombre:Desarrollo"; // Asegúrate de que el formato sea correcto
         assertEquals(expected, departamento.toString()); // Verifica que la representación en cadena sea la esperada
     }
 }
